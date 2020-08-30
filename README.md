@@ -15,3 +15,5 @@ language is just a tool.
 episodes, request more examples, etc.**
 
 Feel free to ask anything, really!
+
+[bots]: https://github.com/frm/beware_of_the_software
